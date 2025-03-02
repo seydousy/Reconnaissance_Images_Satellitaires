@@ -23,21 +23,23 @@ git clone https://github.com/seydousy/Reconnaissance_Images_Satellitaires.git
 cd Reconnaissance_Images_Satellitaires
 ```
 ---
-```
+
 ### 2️⃣ **Installer les dépendances**
+
 Assure-toi d'avoir Python 3.8+ et exécute :
-```
+
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 ---
 ### 3️⃣ Lancer l'application Flask
-```
+```bash
 python app.py
 ```
 ---
 ### 4️⃣ Ouvrir dans le navigateur
-```
+
 Accède à l'application via :
 👉 http://127.0.0.1:5000
-```
+
 
